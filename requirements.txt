@@ -1,5 +1,13 @@
-streamlit
-xgboost
+Flask
 joblib
 numpy
 shap
+streamlit
+requests
+matplotlib
+pandas
+xgboost
+lightgbm
+seaborn
+scikit-learn
+imbalanced-learn
