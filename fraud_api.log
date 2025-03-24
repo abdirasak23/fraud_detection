@@ -1,0 +1,76 @@
+2025-03-24 09:49:54,187 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 09:49:54,209 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 09:49:54,210 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 09:49:54,231 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 09:49:54,231 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 09:49:59,285 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:49:59] "GET / HTTP/1.1" 200 -
+2025-03-24 09:50:02,272 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:50:02] "GET / HTTP/1.1" 200 -
+2025-03-24 09:50:03,119 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:50:03] "GET / HTTP/1.1" 200 -
+2025-03-24 09:50:03,663 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:50:03] "GET / HTTP/1.1" 200 -
+2025-03-24 09:50:04,613 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:50:04] "GET / HTTP/1.1" 200 -
+2025-03-24 09:51:16,259 - __main__ - INFO - Prediction: 0, Probability: 0.0000
+2025-03-24 09:51:16,259 - __main__ - INFO - predict executed in 0.0163 seconds
+2025-03-24 09:51:16,259 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:51:16] "POST /predict HTTP/1.1" 200 -
+2025-03-24 09:53:49,185 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 09:53:49,199 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 09:53:49,201 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 09:53:49,216 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 09:53:49,217 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 09:54:25,794 - __main__ - INFO - Prediction: 0, Probability: 0.0000
+2025-03-24 09:54:25,794 - __main__ - INFO - predict executed in 0.0152 seconds
+2025-03-24 09:54:25,796 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 09:54:25] "POST /predict HTTP/1.1" 200 -
+2025-03-24 09:58:48,945 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 09:58:48,961 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 09:58:48,963 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 09:58:48,973 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 09:58:48,973 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 09:59:26,304 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 09:59:26,337 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 09:59:26,341 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 09:59:26,347 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 09:59:26,349 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 10:00:33,140 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 10:00:33,156 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 10:00:33,162 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 10:00:33,181 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 10:00:33,181 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 10:00:51,432 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 10:00:51] "GET / HTTP/1.1" 200 -
+2025-03-24 10:00:52,537 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 10:00:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 10:01:17,393 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 10:01:17,410 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 10:01:17,414 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 10:01:17,422 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 10:01:17,422 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 10:16:51,857 - __main__ - INFO - Model loaded successfully from xgboost_fraud_model.pkl
+2025-03-24 10:16:51,877 - __main__ - INFO - SHAP explainer initialized
+2025-03-24 10:16:51,879 - __main__ - INFO - Starting Fraud Detection API on port 5000, Debug mode: False
+2025-03-24 10:16:51,893 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.20.133:5000
+2025-03-24 10:16:51,893 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 10:17:04,144 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 10:17:04] "GET / HTTP/1.1" 200 -
+2025-03-24 10:21:47,835 - __main__ - INFO - Prediction: 0, Probability: 0.0000
+2025-03-24 10:21:47,835 - __main__ - INFO - predict executed in 0.0143 seconds
+2025-03-24 10:21:47,837 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 10:21:47] "POST /predict HTTP/1.1" 200 -
+2025-03-24 10:24:18,735 - __main__ - INFO - Prediction: 0, Probability: 0.0000
+2025-03-24 10:24:18,738 - __main__ - INFO - predict executed in 0.0279 seconds
+2025-03-24 10:24:18,738 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 10:24:18] "POST /predict HTTP/1.1" 200 -
